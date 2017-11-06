@@ -1,0 +1,7 @@
+c:\users\warbe\source\repos\CCV6\CCV6\bin\CCV6.dll.config
+c:\users\warbe\source\repos\CCV6\CCV6\bin\CCV6.dll
+c:\users\warbe\source\repos\CCV6\CCV6\bin\CCV6.pdb
+c:\users\warbe\source\repos\CCV6\CCV6\obj\Debug\CCV6.csprojResolveAssemblyReference.cache
+c:\users\warbe\source\repos\CCV6\CCV6\obj\Debug\CCV6.csproj.CoreCompileInputs.cache
+c:\users\warbe\source\repos\CCV6\CCV6\obj\Debug\CCV6.dll
+c:\users\warbe\source\repos\CCV6\CCV6\obj\Debug\CCV6.pdb
